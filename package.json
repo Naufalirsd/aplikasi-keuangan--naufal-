@@ -1,0 +1,28 @@
+{
+  "name": "aplikasi-keuangan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naufalirsd/aplikasi-keuangan--naufal-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naufalirsd/aplikasi-keuangan--naufal-/issues"
+  },
+  "homepage": "https://github.com/Naufalirsd/aplikasi-keuangan--naufal-#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
